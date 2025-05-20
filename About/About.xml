@@ -2,24 +2,10 @@
 	<packageId>coreplus.genes.waster</packageId>
 	<name>[CorePlus] Genes - Waster</name>
 	<author>boomer</author>
-	<description />
 	<supportedVersions>
 		<li>1.5</li>
 	</supportedVersions>
-	<modVersion />
-	<modIconPath IgnoreIfNoMatchingField="True" />
-	<url />
-	<descriptionsByVersion />
-	<modDependencies />
-	<modDependenciesByVersion />
-	<loadBefore />
-	<loadBeforeByVersion />
-	<forceLoadBefore />
 	<loadAfter>
 		<li>coreplus.genes</li>
 	</loadAfter>
-	<loadAfterByVersion />
-	<forceLoadAfter />
-	<incompatibleWith />
-	<incompatibleWithByVersion />
 </ModMetaData>
