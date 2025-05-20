@@ -1,10 +1,17 @@
 ﻿<ModMetaData>
 	<packageId>coreplus.genes.waster</packageId>
-	<name>[CorePlus] Genes - Waster</name>
+	<name>[RCP] Genes - Waster</name>
 	<author>boomer</author>
 	<supportedVersions>
 		<li>1.5</li>
 	</supportedVersions>
+	<url>https://github.com/RimCorePlus/Genes-Waster</url>
+	<modDependencies>
+		<li>
+			<packageId>Ludeon.RimWorld.Biotech</packageId>
+			<displayName>Biotech</displayName>
+		</li>
+	</modDependencies>
 	<loadAfter>
 		<li>coreplus.genes</li>
 	</loadAfter>
