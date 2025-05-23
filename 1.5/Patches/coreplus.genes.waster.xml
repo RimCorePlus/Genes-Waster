@@ -4,8 +4,6 @@
         <value>
             <genes>
                 <li MayRequire="oppey.eyegenes2">Eyes_BrightGreen</li>
-                <li MayRequire="oppey.eyegenes2">Eyes_DarkGreen</li>
-                <li MayRequire="oppey.eyegenes2">Eyes_Gray</li>
                 <li MayRequire="oppey.eyegenes2">Eyes_Green</li>
                 <li MayRequire="oppey.eyegenes2">Eyes_LimeGreen</li>
                 <li>Aggression_HyperAggressive</li>
