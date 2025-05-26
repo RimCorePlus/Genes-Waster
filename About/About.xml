@@ -1,5 +1,5 @@
 ﻿<ModMetaData>
-	<packageId>coreplus.genes.waster</packageId>
+	<packageId>RCP.Genes.Waster</packageId>
 	<name>[RCP] Genes - Waster</name>
 	<author>boomer</author>
 	<supportedVersions>
@@ -13,6 +13,6 @@
 		</li>
 	</modDependencies>
 	<loadAfter>
-		<li>coreplus.genes</li>
+		<li>RCP.Genes</li>
 	</loadAfter>
 </ModMetaData>
